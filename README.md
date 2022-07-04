@@ -1,5 +1,7 @@
 # PixelSorter
 
+This program was created for the purpose of sorting pixels of pictures with different sorting algorithms.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
 ## Development server
